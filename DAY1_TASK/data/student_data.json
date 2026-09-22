@@ -1,0 +1,33 @@
+{
+    "student": "Student A",
+    "applications": [
+        {
+            "company": "TechCorp",
+            "role": "Software Engineer",
+            "status": "Applied",
+            "test_completed": true,
+            "interview": false
+        },
+        {
+            "company": "DataSoft",
+            "role": "Backend Developer",
+            "status": "Interview",
+            "test_completed": true,
+            "interview": true
+        },
+        {
+            "company": "CloudWorks",
+            "role": "Full Stack Developer",
+            "status": "Applied",
+            "test_completed": false,
+            "interview": false
+        },
+        {
+            "company": "FinTech Labs",
+            "role": "Software Engineer",
+            "status": "Offer",
+            "test_completed": true,
+            "interview": true
+        }
+    ]
+}
